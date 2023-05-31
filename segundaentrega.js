@@ -274,10 +274,3 @@ console.log("Total a cobrar:", total * 12)
     //     return respuesta
     // }
     
-    // while (condition) {
-    //     //codigo
-    // }
-    
-    // do {
-    //     //codigo
-    // } while (condition);
