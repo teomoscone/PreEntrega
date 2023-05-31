@@ -1,5 +1,5 @@
 //Darle la bienvenida al usuario; ingresar datos como: Nombre Completo, Edad y si es nuevo o no.
-//Brindar el servivcio de pagar online la suscripción al gimnasio; tendra la opción de ser pagado en cuotas (3, 6, 12) sin intereses. 
+//Brindar el servivcio de pagar online la suscripción al gimnasio; 
 //Tendra la opción de realizar el pago anual, lo cual tendra un descuento del 20% en su totalidad.
 let lista_alumnos = [];
 
